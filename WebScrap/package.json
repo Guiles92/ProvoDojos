@@ -1,0 +1,16 @@
+{
+  "name": "webscrap",
+  "version": "1.0.0",
+  "description": "Web scrapping provo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Provolone",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^0.22.0",
+    "puppeteer": "^11.0.0"
+  }
+}
